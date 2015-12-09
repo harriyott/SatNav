@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatNav", "SatNav\SatNav.csproj", "{AC06AF25-AA69-432C-A205-0AB9E2E0394B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatNavTests", "SatNavTests\SatNavTests.csproj", "{D79391D5-F676-493B-8C7B-2FCF2123E0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC06AF25-AA69-432C-A205-0AB9E2E0394B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC06AF25-AA69-432C-A205-0AB9E2E0394B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC06AF25-AA69-432C-A205-0AB9E2E0394B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC06AF25-AA69-432C-A205-0AB9E2E0394B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79391D5-F676-493B-8C7B-2FCF2123E0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79391D5-F676-493B-8C7B-2FCF2123E0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79391D5-F676-493B-8C7B-2FCF2123E0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79391D5-F676-493B-8C7B-2FCF2123E0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

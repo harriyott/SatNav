@@ -1,0 +1,6 @@
+*.suo
+*.ncrunchsolution
+*.ncrunchproject
+*.cache
+bin/
+obj/
